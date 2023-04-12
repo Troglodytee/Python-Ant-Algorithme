@@ -11,10 +11,10 @@ This is a reproduction of the Ant Algorithme. You can create a graph with an ant
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python time library
-- Python math library
+- Python `tkinter` library
+- Python `random` library
+- Python `time` library
+- Python `math` library
 ## Usage
 To create a graph you can select a tool using this section :
 
